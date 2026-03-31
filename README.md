@@ -63,7 +63,7 @@ Site  ──  https://securitytalent.net
 <tr>
 <td width="50%" align="center">
 
-### `$ npm ls --global`
+## `$ npm ls --global`
 
 <a href="https://www.npmjs.com/~securitytalent" target="_blank">
   <img src="https://img.shields.io/badge/NPM-View%20My%20Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
@@ -73,7 +73,7 @@ Site  ──  https://securitytalent.net
 
 <td width="50%" align="center">
 
-### `$ cat freelancing.cfg`
+## `$ cat freelancing.cfg`
 
 <a href="https://www.upwork.com/freelancers/~015950f0cd4ce4341e" target="_blank">
   <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
@@ -104,7 +104,7 @@ Site  ──  https://securitytalent.net
 </div>
 
 ---
-### `$ ls skills/`
+## `$ ls skills/`
 <div align="center">
 <p>
   <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
