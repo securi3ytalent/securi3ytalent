@@ -57,6 +57,8 @@ Site  ──  https://securitytalent.net
   </a>
 </p>
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" align="center">
@@ -80,6 +82,8 @@ Site  ──  https://securitytalent.net
 </td>
 </tr>
 </table>
+
+</div>
 
 ## `$ cat stats.out`
 [![LeetCode Stats](https://leetcard.jacoblin.cool/securityTalent?theme=nord&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/securityTalent/)
