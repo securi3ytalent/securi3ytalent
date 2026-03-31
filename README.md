@@ -6,8 +6,20 @@
   </a>
 </p>
 
-## Front-End Developer | Penetration Tester (Web, API, App) | Malware Analyst
+---
 
+## `$ cat whoami.txt`
+
+```
+Name  ──  MD Mehedi Hasan
+Role  ──  Front-End Developer | Problem Solver
+          Penetration Tester (Web, API, App) | Malware Analyst
+
+Focus ──  Web Development | Malware Analyst | Malware Development | Secure Coding
+Blog  ──  https://medium.com/@securitytalent
+Site  ──  https://securitytalent.net
+```
+---
 Front-End Developer specializing in React JS, skilled in crafting scalable, high-performance, and visually engaging user interfaces. Experienced in Cyber Security, with hands-on expertise in Penetration Testing (Web, API, App) and Malware Analysis, ensuring secure, reliable, and modern web applications.
 
 ## 🌐 Connect with Me
