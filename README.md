@@ -61,9 +61,9 @@ Site  ──  https://securitytalent.net
 
 <div align="center">
 
-<table>
+<table width="90%">
 <tr>
-<td width="80%" align="center">
+<td width="50%" align="center">
 
 ## `$ npm ls --global`
 
@@ -73,7 +73,7 @@ Site  ──  https://securitytalent.net
 
 </td>
 
-<td width="80%" align="center">
+<td width="50%" align="center">
 
 ## `$ cat freelancing.cfg`
 
@@ -84,6 +84,7 @@ Site  ──  https://securitytalent.net
 </td>
 </tr>
 </table>
+
 </div>
 
 
