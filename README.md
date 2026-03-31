@@ -11,7 +11,6 @@ Focus ──  Web Development | Malware Analyst | Malware Development | Secure C
 Blog  ──  https://medium.com/@securitytalent
 Site  ──  https://securitytalent.net
 ```
----
 
 ## `$ cat links.cfg`
 
@@ -107,7 +106,7 @@ Site  ──  https://securitytalent.net
 </p>
 </div>
 
----
+
 ## `$ ls skills/`
 <div align="center">
 <p>
