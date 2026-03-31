@@ -61,7 +61,7 @@ Site  ──  https://securitytalent.net
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="60%" align="center">
 
 ## `$ npm ls --global`
 
