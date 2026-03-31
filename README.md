@@ -57,24 +57,29 @@ Site  ──  https://securitytalent.net
   </a>
 </p>
 
+<table>
+<tr>
+<td width="50%" align="center">
+
 ### `$ npm ls --global`
 
-<p align="left">
-  <a href="https://www.npmjs.com/~securitytalent" target="_blank">
-    <img src="https://img.shields.io/badge/NPM-View%20My%20Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.npmjs.com/~securitytalent" target="_blank">
+  <img src="https://img.shields.io/badge/NPM-View%20My%20Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
 
 ### `$ cat freelancing.cfg`
 
-<p align="left">
-  <a href="https://www.upwork.com/freelancers/~015950f0cd4ce4341e" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~015950f0cd4ce4341e" target="_blank">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge"/>
-  </a>
-</p>
+<a href="https://www.upwork.com/freelancers/~015950f0cd4ce4341e" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ## `$ cat stats.out`
 [![LeetCode Stats](https://leetcard.jacoblin.cool/securityTalent?theme=nord&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/securityTalent/)
