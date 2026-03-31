@@ -61,8 +61,6 @@ Front-End Developer specializing in React JS, skilled in crafting scalable, high
 
 ## `$ cat stats.out`
 [![LeetCode Stats](https://leetcard.jacoblin.cool/securityTalent?theme=nord&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/securityTalent/)
-
-### 🏅 LeetCode Badges
 <p align="left">
   <a href="https://leetcode.com/u/securityTalent/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-130%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
