@@ -3,7 +3,7 @@
 ## `$ cat whoami.txt`
 
 ```
-Name  ──  MD Mehedi Hasan
+Name  ──  MD Mehedi Hasan (Security Talent)
 Role  ──  Front-End Developer | Problem Solver
           Penetration Tester (Web, API, App) | Malware Analyst
 
