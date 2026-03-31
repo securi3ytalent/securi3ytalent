@@ -1,5 +1,9 @@
 ![Github Banner](https://raw.githubusercontent.com/securi3ytalent/securi3ytalent/refs/heads/main/Security-Talent-Banner-Github.png)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&weight=500&size=17&pause=1000&color=E9436F&center=true&vCenter=true&width=700&lines=CTF+%26+Malware+Analysis;Penetration+Tester+(Web%2C+API%2C+App);Front-End+Developer;)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=500&size=18&pause=1000&color=E9436F&center=true&vCenter=true&width=700&lines=CTF+%26+Malware+Analysis;Penetration+Tester+(Web%2C+API%2C+App);Front-End+Developer;Problem+Solving;" alt="Typing SVG" />
+  </a>
+</p>
 
 ## Front-End Developer | Penetration Tester (Web, API, App) | Malware Analyst
 
