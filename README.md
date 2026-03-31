@@ -71,7 +71,7 @@ Site  ──  https://securitytalent.net
 
 </td>
 
-<td width="50%" align="center">
+<td width="60%" align="center">
 
 ## `$ cat freelancing.cfg`
 
