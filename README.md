@@ -59,7 +59,7 @@ Front-End Developer specializing in React JS, skilled in crafting scalable, high
   </a>
 </p>
 
-## 🧠 LeetCode Profile
+## `$ cat stats.out`
 [![LeetCode Stats](https://leetcard.jacoblin.cool/securityTalent?theme=nord&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/securityTalent/)
 
 ### 🏅 LeetCode Badges
