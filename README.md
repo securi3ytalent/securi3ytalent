@@ -61,7 +61,7 @@ Site  ──  https://securitytalent.net
 
 <div align="center">
 
-<table width="90%">
+<table >
 <tr>
 <td width="50%" align="center">
 
