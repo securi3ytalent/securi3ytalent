@@ -82,11 +82,11 @@ Site  ──  https://securitytalent.net
 </td>
 </tr>
 </table>
-
 </div>
-<div align="center">
+
 
 ## `$ cat stats.out`
+<div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/securityTalent?theme=nord&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/securityTalent/)
 
@@ -101,9 +101,11 @@ Site  ──  https://securitytalent.net
     <img src="https://img.shields.io/badge/Streak-50%20Days-22C55E?style=for-the-badge"/>
   </a>
 </p>
+</div>
 
+---
 ### `$ ls skills/`
-
+<div align="center">
 <p>
   <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F"/>
   <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc"/>
@@ -123,6 +125,8 @@ Site  ──  https://securitytalent.net
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-202020?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
-
 </div>
+
+
+
 
